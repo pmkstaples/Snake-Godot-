@@ -1,0 +1,3 @@
+The game should be able to run straight from the executable. 
+
+Arrow keys change direction of the head, start restarts the game, and escape quits the program.
